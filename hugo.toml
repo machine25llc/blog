@@ -1,0 +1,4 @@
+baseURL = "https://blog.machine25.com/"
+languageCode = "en-us"
+title = "Machine25 Blog"
+theme = "PaperMod"
