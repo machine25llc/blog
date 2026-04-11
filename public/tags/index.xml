@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Machine25 Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.machine25.com/tags/</link>
     <description>Recent content in Tags on Machine25 Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.machine25.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EdgeAI</title>
+      <link>https://blog.machine25.com/tags/edgeai/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.machine25.com/tags/edgeai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SovereignAI</title>
+      <link>https://blog.machine25.com/tags/sovereignai/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.machine25.com/tags/sovereignai/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
