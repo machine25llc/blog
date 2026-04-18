@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Machine25 Blog</title>
-    <link>https://blog.machine25.com/posts/</link>
-    <description>Recent content in Posts on Machine25 Blog</description>
+    <title>EdgeAI on Machine25 Blog</title>
+    <link>https://blog.machine25.com/tags/edgeai/</link>
+    <description>Recent content in EdgeAI on Machine25 Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.machine25.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.machine25.com/tags/edgeai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mission Statement</title>
       <link>https://blog.machine25.com/posts/mission-statement/</link>
