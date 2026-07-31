@@ -1,7 +1,7 @@
 ---
 title: "Vision Statement"
 date: 2026-06-11
-draft: false
+draft: true
 tags: ["EdgeAI", "SovereignAI"]
 author: "The Founder"
 description: "Edge Intelligence."

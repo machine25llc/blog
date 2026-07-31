@@ -1,7 +1,7 @@
 ---
 title: "Mission Statement"
 date: 2026-06-11
-draft: false
+draft: true
 tags: ["EdgeAI", "SovereignAI"]
 author: "The Founder"
 description: "Why the future of AI isn't in the cloud, but in the silicon of every device."
